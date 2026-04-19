@@ -1,0 +1,1 @@
+O projeto que eu pensei pode ser um envio de mensagens para um Sistema de “ofertas” e “pedidos” de serviços.
